@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "eng_name": "CARDINAL DIRECTIONS",
+    "eng_description": "",
+    "kor_name": "방향",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "eng_name": "CHARACTER & PERSONALITY",
+    "eng_description": "",
+    "kor_name": "성격",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "eng_name": "COLORS",
+    "eng_description": "",
+    "kor_name": "색깔",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "eng_name": "EMOTIONS & FEELINGS",
+    "eng_description": "",
+    "kor_name": "기분 & 감정",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "eng_name": "FAMILY",
+    "eng_description": "",
+    "kor_name": "가족",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "eng_name": "FORMAL & INFORMAL",
+    "eng_description": "",
+    "kor_name": "높임말",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "eng_name": "FRUITS",
+    "eng_description": "",
+    "kor_name": "과일",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 8,
+    "eng_name": "GAME TERMS",
+    "eng_description": "",
+    "kor_name": "게임 용어",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 9,
+    "eng_name": "GREETINGS & GOODBYES",
+    "eng_description": "",
+    "kor_name": "인사말",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 10,
+    "eng_name": "HOMONYMS",
+    "eng_description": "",
+    "kor_name": "동음 이의어",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 11,
+    "eng_name": "KONGLISH",
+    "eng_description": "",
+    "kor_name": "콩글리쉬",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 12,
+    "eng_name": "LANGUAGES",
+    "eng_description": "",
+    "kor_name": "언어",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 13,
+    "eng_name": "LOVE & DATING",
+    "eng_description": "",
+    "kor_name": "연애",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 14,
+    "eng_name": "TERMS OF ENDEARMENT",
+    "eng_description": "",
+    "kor_name": "애정",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 15,
+    "eng_name": "MONTHS",
+    "eng_description": "",
+    "kor_name": "월",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 16,
+    "eng_name": "MOVIES",
+    "eng_description": "",
+    "kor_name": "영화",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 17,
+    "eng_name": "NUMBERS",
+    "eng_description": "",
+    "kor_name": "숫자",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 18,
+    "eng_name": "OPPOSITES",
+    "eng_description": "",
+    "kor_name": "반대말",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 19,
+    "eng_name": "PREPOSITIONS",
+    "eng_description": "",
+    "kor_name": "전치사",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 20,
+    "eng_name": "RELIGIONS",
+    "eng_description": "",
+    "kor_name": "종교",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 21,
+    "eng_name": "SCHOOL",
+    "eng_description": "",
+    "kor_name": "학교",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 22,
+    "eng_name": "SHAPES",
+    "eng_description": "",
+    "kor_name": "모양",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 23,
+    "eng_name": "SLANG",
+    "eng_description": "",
+    "kor_name": "속어",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 24,
+    "eng_name": "SOLAR SYSTEM",
+    "eng_description": "",
+    "kor_name": "태양계",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 25,
+    "eng_name": "SPORTS",
+    "eng_description": "",
+    "kor_name": "스포츠",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 26,
+    "eng_name": "SUBWAY",
+    "eng_description": "",
+    "kor_name": "지하철",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 27,
+    "eng_name": "SYMBOLS",
+    "eng_description": "",
+    "kor_name": "기호",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 28,
+    "eng_name": "TASTE",
+    "eng_description": "",
+    "kor_name": "맛",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 29,
+    "eng_name": "TIME",
+    "eng_description": "",
+    "kor_name": "시간",
+    "kor_description": "",
+    "active": 1
+  },
+  {
+    "id": 30,
+    "eng_name": "ZODIAC SIGNS",
+    "eng_description": "",
+    "kor_name": "띠",
+    "kor_description": "",
+    "active": 1
+  }
+]
